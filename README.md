@@ -1,5 +1,3 @@
-# Donut Emulator
-
 <h1 align="center">Donut Emulator</h1>
 
 <p align="center">
