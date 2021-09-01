@@ -7,3 +7,22 @@
     <br> Built using Python, it has a wide range of commands, from games to paths, etc. Experince the world of Donut Emulator.</i>
   <br>
 </p>
+
+## How to use:
+
+Run the "donut-emulator.py" file in a terminal to use. Type in "help" when in the Donut Emulator terminal to view all commands.
+
+## Current Donut Emulator Stable Release:
+
+Donut Emulator 1.0
+
+## PytoolSuite release notes:
+
+- Donut Emulator Build 100 (Public Beta): Basic commands, a game, and basic utilities included. Not stable.
+- Donut Emulator 1.0 "Thunderbolt": Improved commands, code easier to browse. First stable release.
+
+
+
+## General Notes:
+
+Please refer to the [releases](https://github.com/SmashedFrenzy16/donut-emulator/releases) to get any version of Donut Emulator you want.
