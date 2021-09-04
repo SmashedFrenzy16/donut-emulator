@@ -25,4 +25,4 @@ Donut Emulator 1.0
 
 ## General Notes:
 
-Please refer to the [releases](https://github.com/SmashedFrenzy16/donut-emulator/releases) to get any version of Donut Emulator you want.
+Please refer to the [releases](https://github.com/SmashedFrenzy16/donut-emulator/releases) page to get any version of Donut Emulator you want.
