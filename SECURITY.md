@@ -15,4 +15,4 @@ If you see a vulnerbility, please create an issue and we will be there to review
 
 ## EOL Info
 
-Every version of Donut Emulator is supported until the next version comes along. This is usually one year.
+Every version of Donut Emulator is supported for 3 years (1.0 for longer as it was the first release).
