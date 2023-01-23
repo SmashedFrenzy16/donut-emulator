@@ -4,9 +4,11 @@
   <img src="https://user-images.githubusercontent.com/68993968/131216629-815502b4-b5ba-40f0-8a64-d305962d9197.png" alt="donut-emulator-logo" width="120px" height="120px"/>
    <br>
   <i>Donut Emulator is a lightweight and fast terminal built for simplicity and power.
-    <br> Constructed purely out of Python, it has a wide range of commands, from games to paths, etc. Experince the world of Donut Emulator.</i>
+    <br> Constructed purely out of Python, it has a wide range of commands, from games to paths, etc. Experience the world of Donut Emulator.</i>
   <br>
 </p>
+
+# NOTE: Donut Emulator will NOT be remaining open source. After a rewrite of the codebase, we have decided to make it closed source to help fund NetFruit Technologies and make it easier to install.
 
 ## How to use:
 
