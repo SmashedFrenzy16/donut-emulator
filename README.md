@@ -8,7 +8,7 @@
   <br>
 </p>
 
-# NOTE: Donut Emulator will NOT be remaining open source. After a rewrite of the codebase, we have decided to make it closed source to help fund NetFruit Technologies and make it easier to install.
+# NOTE: We are proud to announce that Donut Emulator WILL be remaining open source! We have decided that this is the best way forward to maintain the future of Donut Emulator! We have also decided that a complete rewrite of the codebase is not necessary. In order to support us, please sponsor us (when we have set up wonderful sponsorships for you)! The new version of Donut Emulator is coming out on Saturday 22nd April 2023, with HUGE new changes! So stay tuned by forking and starring this repository!
 
 ## How to use:
 
