@@ -8,8 +8,6 @@
   <br>
 </p>
 
-# NOTE: We are proud to announce that Donut Emulator WILL be remaining open source! We have decided that this is the best way forward to maintain the future of Donut Emulator! We have also decided that a complete rewrite of the codebase is not necessary. In order to support us, please sponsor us (when we have set up wonderful sponsorships for you)! The new version of Donut Emulator is coming out on Saturday 22nd April 2023, with HUGE new changes! So stay tuned by forking and starring this repository!
-
 ## How to use:
 
 Run the "donut-emulator.py" file in a terminal to use. Type in "help" when in the Donut Emulator terminal to view all commands.
