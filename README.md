@@ -14,7 +14,7 @@ Run the "donut-emulator.py" file in a terminal to use. Type in "help" when in th
 
 ## Current Donut Emulator Stable Release:
 
-Donut Emulator 1.0
+Donut Emulator 2.0
 
 ## Donut Emulator release notes:
 
