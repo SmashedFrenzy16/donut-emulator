@@ -10,7 +10,7 @@
 
 ## How to use:
 
-Run the "donut-emulator.py" file in a terminal to use. Type in "help" when in the Donut Emulator terminal to view all commands.
+Run the `donut-emulator.py` file in a terminal to use. Type in `help` when in the Donut Emulator terminal to view all commands.
 
 ## Current Donut Emulator Stable Release:
 
