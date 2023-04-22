@@ -20,6 +20,7 @@ Donut Emulator 2.0
 
 - Donut Emulator Build 100 (Public Beta): Basic commands, a game, and basic utilities included. Not stable.
 - Donut Emulator 1.0 "Thunderbolt": Improved commands, code easier to browse. First stable release. Fixed major bugs.
+- Donut Emulator 2.0 "Blazefield": Improved commands, UNIX-style commands added for more productivity. Fixed major bugs.
 
 
 
