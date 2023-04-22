@@ -6,7 +6,7 @@
 | ------- | ------------------ |
 | 3.1.x   | :x: Not Yet Released |
 | 3.0.x   | :x: Not Yet Released               |
-| 2.0   | :x: Not Yet Released |
+| 2.0   | :white_check_mark: |
 | 1.0   | :white_check_mark:                |
 
 ## Reporting a Vulnerability
