@@ -20,6 +20,7 @@ from pyperclip import *
 from tkcalendar import *
 from segno import *
 from os import *
+from github import Github
 
 pathdec = os.getcwd()
 
