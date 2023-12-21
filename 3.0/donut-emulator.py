@@ -733,7 +733,7 @@ def main():
 
         root = Tk()
 
-        title = Label(root, text="Games").pack()
+        title = Label(root, text="GitHub Commands").pack()
         blank = Label(root, text="").pack()
         starslabel = Label(root, text="Find the number of stars in a GitHub repository - Command: \"gstars repo\"").pack()
         repofinderlabel = Label(root, text="Find a GitHub repository based on a topic - Command: \"gfind repo topic\"").pack()
