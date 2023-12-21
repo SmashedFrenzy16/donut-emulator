@@ -708,8 +708,8 @@ def main():
 
         title = Label(root, text="Games").pack()
         blank = Label(root, text="").pack()
-        starslabel = Label(root, text="gstars repo - Command: \"play adventure-game\"")
-        repofinderlabel = Label(root, text="gfind repo topic - Command: \"play snake\"").pack()
+        starslabel = Label(root, text="Find the number of stars in a GitHub repository - Command: \"gstars repo\"").pack()
+        repofinderlabel = Label(root, text="Find a GitHub repository - Command: \"gfind repo\"").pack()
 
         root.mainloop()
 
