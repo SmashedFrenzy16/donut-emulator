@@ -14,13 +14,14 @@ Run the `donut-emulator.py` file in a terminal to use. Type in `help` when in th
 
 ## Current Donut Emulator Stable Release:
 
-Donut Emulator 2.0
+Donut Emulator 3.0
 
 ## Donut Emulator release notes:
 
 - Donut Emulator Build 100 (Public Beta): Basic commands, a game, and basic utilities included. Not stable.
 - Donut Emulator 1.0 "Thunderbolt": Improved commands, code easier to browse. First stable release. Fixed major bugs.
 - Donut Emulator 2.0 "Blazefield": Improved commands, UNIX-style commands added for more productivity. More productive features added. Code made faster. Fixed major bugs.
+- Donut Emulator 3.0 "Blitz": 
 
 
 
