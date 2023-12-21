@@ -1043,7 +1043,7 @@ def main():
         invalid_input = False
 
     elif start == "term info":
-        print("Donut Emulator Version 2.0 'Blazefield'. Date: 12/7/21")
+        print("Donut Emulator Version 3.0 'Blitz'.")
         invalid_input = False
 
     elif start == "play tic-tac-toe":
