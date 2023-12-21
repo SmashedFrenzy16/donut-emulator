@@ -698,10 +698,36 @@ def main():
 
         invalid_input = False
 
-    elif start == "gfind repo":
+    elif start == "gtoken add":
 
-        pass
+        global githubtoken
 
+        tok = input("Enter in your GitHub token: ")
+
+        githubtoken = tok
+
+    elif start == "gfind repo topic":
+
+        g_cred = Github(githubtoken)
+
+        topic = input("Enter in the topic name: ")
+
+        count = int(input("Enter in the number of repositories to display: "))
+
+        repo_count = count
+
+        icount = 0
+
+        for i in g_cred.search_repositories(f"topic:{topic}"):
+
+            print(f"{icount + 1}. {i}")
+
+            icount += 1
+
+            if icount >= repo_count:
+
+                break
+            
     elif start == "github commands":
 
         root = Tk()
@@ -709,7 +735,8 @@ def main():
         title = Label(root, text="Games").pack()
         blank = Label(root, text="").pack()
         starslabel = Label(root, text="Find the number of stars in a GitHub repository - Command: \"gstars repo\"").pack()
-        repofinderlabel = Label(root, text="Find a GitHub repository - Command: \"gfind repo\"").pack()
+        repofinderlabel = Label(root, text="Find a GitHub repository based on a topic - Command: \"gfind repo topic\"").pack()
+        tokenlabel = Label(root, text="Enter in your GtiHub token - Command: \"gtoken add\"").pack()
 
         root.mainloop()
 
@@ -717,9 +744,7 @@ def main():
 
     elif start == "gstars repo":
 
-        from github import Github
-
-        g_cred = Github("<Paste Your Token Here>")
+        g_cred = Github(githubtoken)
 
         f_repo = input("Enter repository name to see its stars (eg. User/Repo): ")
 
@@ -728,7 +753,7 @@ def main():
         print(repo.stargazers_count)
 
     elif start == "help":
-        print("Donut Emulator Version 2.0 'Blazefield'.")
+        print("Donut Emulator Version 3.0 'Blitz'.")
         print("This is a default shell command. Type `help' to see this list.")
         print("For more information, visit https://netfruittechnologies.wordpress.com/donut-emulator/.")
         print("bmi calc - Opens up a BMI calculator")
