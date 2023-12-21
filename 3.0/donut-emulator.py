@@ -390,7 +390,9 @@ def main():
         cimp = input(
             "Enter in the file you want to display (with file extension): ")
 
-        subprocess.call(f"cat {cimp}", shell=True)
+        print(Path(cimp).read_text())
+
+        invalid_input = False
 
     elif start == "clear":
 
