@@ -621,6 +621,7 @@ def main():
         ipAddress = input("Enter in IP address/website to ping: ")
 
         os.system("ping {}".format(ipAddress))
+        subprocess.call(f"ping {ipAddress}", shell=False)
 
         invalid_input = False
 
