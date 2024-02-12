@@ -319,7 +319,9 @@ def main():
         cimp = input(
             "Enter in the file you want to display (with file extension): ")
 
-        os.system(f"cat {cimp}")
+        print(Path(cimp).read_text())
+
+        invalid_input = False
 
     elif start == "clear":
 
