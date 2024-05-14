@@ -10,7 +10,7 @@
 
 ## How to use:
 
-Run the `donut-emulator.py` file (or `donut-emulator-win.py` for versions 3.0 and above) in a terminal to use. Type in `help` when in the Donut Emulator terminal to view all commands.
+Run the `donut-emulator.py` file (or for Windows, run `donut-emulator-win.py` for versions 3.0 and above) in a terminal to use. Type in `help` when in the Donut Emulator terminal to view all commands.
 
 ## Current Donut Emulator Stable Release:
 
@@ -21,7 +21,7 @@ Donut Emulator 3.0
 - Donut Emulator Build 100 (Public Beta): Basic commands, a game, and basic utilities included. Not stable.
 - Donut Emulator 1.0 "Thunderbolt": Improved commands, code easier to browse. First stable release. Fixed major bugs.
 - Donut Emulator 2.0 "Blazefield": Improved commands, UNIX-style commands added for more productivity. More productive features added. Code made faster. Fixed major bugs.
-- Donut Emulator 3.0 "Blitz": Improved commands, with all new GitHub commands for better productivity. More tools added as well, and a new adventure game. Fixed major issues.
+- Donut Emulator 3.0 "Blitz": Improved commands, with all new GitHub commands for better productivity. More tools added as well, and a new adventure game. Added a Windows version of the terminal. Fixed major issues.
 
 ## General Notes:
 
